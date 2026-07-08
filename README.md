@@ -2,8 +2,12 @@
 
 <!-- ===== TYPING ANIMATION HEADER ===== -->
 <a href="https://github.com/gitmanhimanshu">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=80&lines=Hi+there%2C+I'm+Himanshu+Yadav+%F0%9F%91%8B;Full+Stack+GenAI+Developer;LLM+%7C+RAG+%7C+Agentic+AI+Engineer;500%2B+LeetCode+Problems+Solved+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&height=80&lines=Come+Together%2C+Build+AI+%F0%9F%A4%9D%F0%9F%9A%80;Hi+there%2C+I'm+Himanshu+Yadav+%F0%9F%91%8B;Full+Stack+GenAI+Developer;LLM+%7C+RAG+%7C+Agentic+AI+Engineer;500%2B+LeetCode+Problems+Solved+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
+
+<!-- ===== TAGLINE BANNER ===== -->
+<h2>🤝 Come Together, Build AI 🚀</h2>
+<p><i>Let's collaborate and build the future with AI — one commit at a time.</i></p>
 
 <!-- ===== PROFILE VIEWS + FOLLOWERS ===== -->
 <p>
@@ -20,6 +24,11 @@
   <a href="mailto:himanshuyada70@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="tel:+917080159181"><img src="https://img.shields.io/badge/Phone-%2B91_7080159181-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
 </p>
+
+<!-- ===== LEETCODE STATS (TOP) ===== -->
+<br/>
+<h3>🧩 LeetCode — 500+ Solved · Top 5%</h3>
+<img src="https://leetcard.jacoblin.cool/himanshuyadav45?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 
 </div>
 
@@ -170,6 +179,8 @@ Full Stack **GenAI Developer** who ships production-grade AI products — from L
 
 </div>
 
+<!-- NOTE: Snake tab tak blank rahega jab tak GitHub Action ek baar chal ke `output` branch na bana de. Setup steps chat me diye gaye hain. -->
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -190,16 +201,6 @@ Full Stack **GenAI Developer** who ships production-grade AI products — from L
 - 🥇 **1st Place — College Tech Fest 2022 (Pragyan)** for software development
 - 👨‍💼 Selected for **Google Developer Student Clubs lead** position (2023)
 - 🤝 Volunteered in Robotics Workshop impacting **100+ students** (March 2024)
-
----
-
-## 🧩 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/himanshuyadav45?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-
-</div>
 
 ---
 
