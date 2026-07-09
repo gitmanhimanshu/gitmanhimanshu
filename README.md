@@ -6,6 +6,10 @@ Currently SDE at **Hypelive Solutions**. Previously at **PRP WEBS**. B.Tech in C
 
 [LinkedIn](https://www.linkedin.com/in/himanshu-yadav-5ba28921b/) · [LeetCode](https://leetcode.com/u/himanshuyadav45/) · [Email](mailto:himanshuyada70@gmail.com)
 
+<a href="https://leetcode.com/u/himanshuyadav45/">
+  <img src="https://leetcard.jacoblin.cool/himanshuyadav45?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
 ---
 
 ## About
