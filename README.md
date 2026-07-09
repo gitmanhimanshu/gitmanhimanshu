@@ -1,5 +1,7 @@
 # Himanshu Yadav
 
+> *"Come, let's build AI."*
+
 **Full-Stack & GenAI Engineer** — I build production AI systems: LLM orchestration, RAG pipelines, and multi-tenant SaaS platforms.
 
 Currently SDE at **Hypelive Solutions**. Previously at **PRP WEBS**. B.Tech in Computer Science & Design (AKTU).
@@ -96,5 +98,12 @@ AI assistant built on GPT models with a dynamic query generator, voice-based tas
 ---
 
 <div align="center">
+
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=gitmanhimanshu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite&hide_title=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitmanhimanshu&layout=compact&hide_border=true&langs_count=8&theme=graywhite&hide_title=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitmanhimanshu&theme=github-light&hide_border=true&area=true&color=333333&line=333333&point=333333" alt="Contribution Graph" />
+
 </div>
