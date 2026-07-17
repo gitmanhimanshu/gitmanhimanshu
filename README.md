@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./assets/hero-sketch.png" alt="Himanshu Yadav — Full-Stack & GenAI Engineer" width="100%" />
+
+</div>
+
 # Himanshu Yadav
 
 > *"Come, let's build AI."*
