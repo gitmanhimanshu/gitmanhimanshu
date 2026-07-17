@@ -4,8 +4,6 @@
 
 </div>
 
-<img align="right" src="https://avatars.githubusercontent.com/u/165804206?v=4" width="150" style="border-radius: 50%;" alt="Himanshu Yadav" />
-
 # Himanshu Yadav
 
 > *"Come, let's build AI."*
