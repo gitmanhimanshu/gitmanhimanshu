@@ -32,7 +32,7 @@ I focus on shipping AI-first products end to end — from designing self-correct
 
 ## Experience
 
-**Software Development Engineer — Hypelive Solutions**
+**FreeLance — Hypelive Solutions**
 *Apr 2026 – Present · Ghaziabad, India*
 
 - Core developer on AI-first products spanning text, image, video, and voice generation, LLM orchestration, and vision-based content verification in production.
